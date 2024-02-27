@@ -7,19 +7,19 @@
 
 - 🌱 I’m currently learning **Go, Java, Node**
 
-- 👨‍💻 All of my projects are available at [https://oli-homepage-v2.vercel.app/](https://oli-homepage-v2.vercel.app/)
+- 👨‍💻 All of my projects are available at [my homepage](https://oli-homepage-v2.vercel.app/)
 
-- 📝 I regularly write articles on [https://after-evening.vercel.app/](https://after-evening.vercel.app/)
+- 📝 I regularly write articles on [After evening](https://after-evening.vercel.app/)
 
 - 📫 How to reach me **mombekovalibek22@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/project/648575193d5eb9aa1e2cdc3d](https://www.overleaf.com/project/648575193d5eb9aa1e2cdc3d)
+- 📄 Know about my experiences [Resume](https://www.overleaf.com/project/648575193d5eb9aa1e2cdc3d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alibek-mombekov-247a81201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alibek-mombekov-247a81201/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/astronaut_oli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/astronaut_oli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/astronaut_oli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/astronaut_oli/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alibek-mombekov-247a81201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alibek-mombekov-247a81201/" height="30" width="40" /></a>
+<a href="https://dribbble.com/astronaut_oli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/astronaut_oli" height="30" width="40" /></a>
+<a href="https://leetcode.com/astronaut_oli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/astronaut_oli/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
