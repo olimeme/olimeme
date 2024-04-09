@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alibek</h1>
-<h3 align="center">A passionate frontend developer with UI/UX experience from Kazakhstan</h3>
+<h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olimeme&label=Profile%20views&color=0e75b6&style=flat" alt="olimeme" /> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Go, Java, Node**
 
 - 👨‍💻 All of my projects are available at [my homepage](https://oli-homepage-v2.vercel.app/)
-
-- 📝 I regularly write articles on [After evening](https://after-evening.vercel.app/)
 
 - 📫 How to reach me **mombekovalibek22@gmail.com**
 
